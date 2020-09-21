@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tB7M3lsMlJgezD65rtadTi/1TCyPxV7r/qw8PxjC4/W5ZztdO6UxmF05JqvjVNzCX1lul0chkzEnCX323DlMeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\INF2\\source\\repos\\SkänkaSkeppV3\\SkänkaSkeppV3\\SkänkaSkeppV3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\INF2\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\INF2\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
