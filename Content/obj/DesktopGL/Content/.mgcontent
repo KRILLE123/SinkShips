@@ -4,6 +4,7 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
+    <File>C:/Users/INF2/source/repos/SkänkaSkeppV3/SkänkaSkeppV3/Content/American Captain.spritefont</File>
     <File>C:/Users/INF2/source/repos/SkänkaSkeppV3/SkänkaSkeppV3/Content/background.jpg</File>
     <File>C:/Users/INF2/source/repos/SkänkaSkeppV3/SkänkaSkeppV3/Content/battle_ship.png</File>
     <File>C:/Users/INF2/source/repos/SkänkaSkeppV3/SkänkaSkeppV3/Content/battle_ship_destroyed.png</File>
@@ -11,6 +12,7 @@
     <File>C:/Users/INF2/source/repos/SkänkaSkeppV3/SkänkaSkeppV3/Content/wrong.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

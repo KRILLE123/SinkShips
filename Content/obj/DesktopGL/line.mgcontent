@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/INF2/source/repos/SkänkaSkeppV3/SkänkaSkeppV3/Content/battle_ship.png</SourceFile>
-  <SourceTime>2020-09-16T13:45:41.0691121+02:00</SourceTime>
-  <DestFile>C:/Users/INF2/source/repos/SkänkaSkeppV3/SkänkaSkeppV3/Content/bin/DesktopGL/battle_ship.xnb</DestFile>
-  <DestTime>2020-10-07T13:07:44.5697536+02:00</DestTime>
+  <SourceFile>C:/Users/INF2/source/repos/SkänkaSkeppV3/SkänkaSkeppV3/Content/line.png</SourceFile>
+  <SourceTime>2020-09-16T13:48:47.0536699+02:00</SourceTime>
+  <DestFile>C:/Users/INF2/source/repos/SkänkaSkeppV3/SkänkaSkeppV3/Content/bin/DesktopGL/line.xnb</DestFile>
+  <DestTime>2020-10-07T13:07:44.7526481+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T16:17:54+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -1,3 +1,8 @@
+C:\Users\INF2\source\repos\SkänkaSkeppV3\SkänkaSkeppV3\bin\Debug\netcoreapp3.1\Content\background.xnb
+C:\Users\INF2\source\repos\SkänkaSkeppV3\SkänkaSkeppV3\bin\Debug\netcoreapp3.1\Content\battle_ship.xnb
+C:\Users\INF2\source\repos\SkänkaSkeppV3\SkänkaSkeppV3\bin\Debug\netcoreapp3.1\Content\battle_ship_destroyed.xnb
+C:\Users\INF2\source\repos\SkänkaSkeppV3\SkänkaSkeppV3\bin\Debug\netcoreapp3.1\Content\line.xnb
+C:\Users\INF2\source\repos\SkänkaSkeppV3\SkänkaSkeppV3\bin\Debug\netcoreapp3.1\Content\wrong.xnb
 C:\Users\INF2\source\repos\SkänkaSkeppV3\SkänkaSkeppV3\bin\Debug\netcoreapp3.1\SkänkaSkeppV3.exe
 C:\Users\INF2\source\repos\SkänkaSkeppV3\SkänkaSkeppV3\bin\Debug\netcoreapp3.1\SkänkaSkeppV3.deps.json
 C:\Users\INF2\source\repos\SkänkaSkeppV3\SkänkaSkeppV3\bin\Debug\netcoreapp3.1\SkänkaSkeppV3.runtimeconfig.json
@@ -21,8 +26,4 @@ C:\Users\INF2\source\repos\SkänkaSkeppV3\SkänkaSkeppV3\obj\Debug\netcoreapp3.1
 C:\Users\INF2\source\repos\SkänkaSkeppV3\SkänkaSkeppV3\obj\Debug\netcoreapp3.1\SkänkaSkeppV3.dll
 C:\Users\INF2\source\repos\SkänkaSkeppV3\SkänkaSkeppV3\obj\Debug\netcoreapp3.1\SkänkaSkeppV3.pdb
 C:\Users\INF2\source\repos\SkänkaSkeppV3\SkänkaSkeppV3\obj\Debug\netcoreapp3.1\SkänkaSkeppV3.genruntimeconfig.cache
-C:\Users\INF2\source\repos\SkänkaSkeppV3\SkänkaSkeppV3\bin\Debug\netcoreapp3.1\Content\battle_ship.xnb
-C:\Users\INF2\source\repos\SkänkaSkeppV3\SkänkaSkeppV3\bin\Debug\netcoreapp3.1\Content\line.xnb
-C:\Users\INF2\source\repos\SkänkaSkeppV3\SkänkaSkeppV3\bin\Debug\netcoreapp3.1\Content\wrong.xnb
-C:\Users\INF2\source\repos\SkänkaSkeppV3\SkänkaSkeppV3\bin\Debug\netcoreapp3.1\Content\battle_ship_destroyed.xnb
-C:\Users\INF2\source\repos\SkänkaSkeppV3\SkänkaSkeppV3\bin\Debug\netcoreapp3.1\Content\background.xnb
+C:\Users\INF2\source\repos\SkänkaSkeppV3\SkänkaSkeppV3\bin\Debug\netcoreapp3.1\Content\American Captain.xnb
